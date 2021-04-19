@@ -1,4 +1,4 @@
-# big_data_analysis
+# Big Data Analysis Course
 
 Lab 1
 1.	Сколько всего административных округов в Сан-Франциско? - 10
